@@ -17,6 +17,8 @@ Our mission is to create a **decentralized, community-driven** journalism platfo
 **0x249492f22e7822ddf42fe2d56ce610f8716b1aa3**
 
 
+
+---
 ![image](https://github.com/user-attachments/assets/8fe0511a-e747-4ec6-8d72-dd310ad9e82f)
 
 ---
