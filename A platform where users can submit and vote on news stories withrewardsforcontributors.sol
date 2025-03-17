@@ -77,3 +77,6 @@ contract DecentralizedNewsPlatform {
         return (story.title, story.content, story.author, story.votes, story.timestamp);
     }
 }
+
+
+
